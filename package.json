@@ -1,0 +1,23 @@
+{
+  "name": "@zacharytamas/code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Zachary Jones <zachary@thorough.company>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@thorough/dev-configs": "^0.2.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.4.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.5.0",
+    "regenerator-runtime": "^0.12.1"
+  }
+}
