@@ -1,4 +1,4 @@
-# README
+# code-challenge
 
 This repository is the base environment I use when I'm solving code challenges for fun or screening interviews.
 
